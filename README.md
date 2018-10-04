@@ -1,3 +1,3 @@
-# commig-msg-example
+# commit-msg-example
 
 commit-msg example.
