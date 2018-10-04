@@ -1,3 +1,3 @@
-# commit-msg-example
+# pre-commit-example
 
-commit-msg example.
+Git pre-commit hook example.

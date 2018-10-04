@@ -1,3 +1,4 @@
 #!/bin/bash -e
 cd "$(dirname $BASH_SOURCE)"
-ln -sf ../../git/hooks/commit-msg .git/hooks/commit-msg
+ln -sf ../../git/hooks/pre-commit .git/hooks/pre-commit
+echo "Succesfully installed hook"
